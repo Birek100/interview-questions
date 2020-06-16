@@ -1,5 +1,5 @@
-JS - czym się różni EcmaScript of JavaScript
-JS - Co to są zmienne / funkcje / pętle w JavaScript i jak działają, jakie typy danych ma Javacript
+`<addr>` JS - czym się różni EcmaScript of JavaScript
+`<addr>` JS - Co to są zmienne / funkcje / pętle w JavaScript i jak działają, jakie typy danych ma Javacript
 HTML - Wyrywkowo tagi HTML (możesz się uczyć z http://html5doctor.com/) - masz znać najważnijsze tagi 
 CSS - Jak postylować n-te dziecko w CSS
 CSS - jak działa display 
