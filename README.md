@@ -29,4 +29,4 @@
 29. redux reducery
 30. w ccs polamlowac co drugi row
 31. state w React i w Redux
-32. event bubbling
+32. event bubbling i capturing
