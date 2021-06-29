@@ -31,3 +31,4 @@
 31. state w React i w Redux
 32. event bubbling i capturing
 33. Tree shaking
+34. klasa abstrakcyjna i tablica asocjacyjna
