@@ -32,3 +32,4 @@
 32. event bubbling i capturing
 33. Tree shaking
 34. klasa abstrakcyjna i tablica asocjacyjna
+35. JavaScript Cookies, Local Storage, Session Storage
